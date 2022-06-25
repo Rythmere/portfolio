@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f2a54050.css",
+    "main.js": "/portfolio/static/js/main.bcc33912.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/myFlix-React.jpg": "/portfolio/static/media/myFlix-React.7a679b1f94081d1c0df2.jpg",
+    "static/media/myFlix-Angular.jpg": "/portfolio/static/media/myFlix-Angular.a51a08808c60b9d619ac.jpg",
+    "static/media/ChatApp.jpg": "/portfolio/static/media/ChatApp.48549cdaf01e0ed86461.jpg",
+    "static/media/pokedex.jpg": "/portfolio/static/media/pokedex.174e0a95574151605db9.jpg",
+    "static/media/myFlix-Api.jpg": "/portfolio/static/media/myFlix-Api.773552ea08c7841f6623.jpg",
+    "static/media/meet-app.jpg": "/portfolio/static/media/meet-app.883aaeed0916b000f58b.jpg",
+    "static/media/Profile-Portrait.jpg": "/portfolio/static/media/Profile-Portrait.8e674bd6e784729cb913.jpg",
+    "static/media/about-picture.jpg": "/portfolio/static/media/about-picture.4fb450c91cb5236229dc.jpg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.e91d00779caeacc1f8585d962ca5a846.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.cc195ced88bd87fc6189af95ab7c11e6.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.57095f15fcd371d9eac072b1dfa69643.svg",
+    "index.html": "/portfolio/index.html",
+    "main.f2a54050.css.map": "/portfolio/static/css/main.f2a54050.css.map",
+    "main.bcc33912.js.map": "/portfolio/static/js/main.bcc33912.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a54050.css",
+    "static/js/main.bcc33912.js"
+  ]
+}
