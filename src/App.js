@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { HashRouter as Router, Route, Redirect } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom';
 import  Container  from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -15,26 +15,26 @@ class App extends React.Component {
 
   render() {
     return (
-      <Router>
+      <Router >
       <Container>
         <NavBar/>
         <Row className='home-card'>
-          <Route exact path='portfolio/' render={() => {
+          <Route exact path='/portfolio/' render={() => {
            return <Col md={6}>
             <Home/>
             </Col>
           }}/>
-          <Route exact path='/about' render={() => {
+          <Route exact path='/portfolio/about' render={() => {
             return <Col md={6}>
             <About/>
             </Col>
           }}/>
-          <Route exact path='/projects' render={() => {
+          <Route path='/portfolio/projects' render={() => {
             return <Col md={12}>
             <Projects/>
             </Col>
           }}/>
-          <Route exact path='/contact' render={() => {
+          <Route exact path='/portfolio/contact' render={() => {
             return <Col md={4}>
             <Contact/>
             </Col>
