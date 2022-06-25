@@ -1,0 +1,13 @@
+.page-footer {
+	clear: both;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	font-size: large;
+	color: white;
+}
+
+.social-media {
+	margin-left: 10px;
+	margin-right: 10px;
+}

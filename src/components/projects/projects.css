@@ -1,0 +1,16 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.Btn-bg {
+    background-color: rgb(128, 69, 128) !important; 
+    border-color: rgb(128, 69, 128) !important;
+    margin: 5px;
+}
+
+.container-projects {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    
+}

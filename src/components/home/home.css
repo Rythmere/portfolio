@@ -1,0 +1,15 @@
+.profile {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	min-height: 100%;
+    width: 100%;
+}
+
+.profile_portrait {
+	float: left;
+	width: 250px;
+	margin: 0 10px;
+	border-radius: 50%;
+}
