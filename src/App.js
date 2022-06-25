@@ -24,17 +24,17 @@ class App extends React.Component {
             <Home/>
             </Col>
           }}/>
-          <Route exact path='portfolio/about' render={() => {
+          <Route exact path='/about' render={() => {
             return <Col md={6}>
             <About/>
             </Col>
           }}/>
-          <Route exact path='portfolio/projects' render={() => {
+          <Route exact path='/projects' render={() => {
             return <Col md={12}>
             <Projects/>
             </Col>
           }}/>
-          <Route exact path='portfolio/contact' render={() => {
+          <Route exact path='/contact' render={() => {
             return <Col md={4}>
             <Contact/>
             </Col>
