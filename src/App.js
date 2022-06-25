@@ -19,22 +19,22 @@ class App extends React.Component {
       <Container>
         <NavBar/>
         <Row className='home-card'>
-          <Route exact path='/' render={() => {
+          <Route exact path='portfolio/' render={() => {
            return <Col md={6}>
             <Home/>
             </Col>
           }}/>
-          <Route exact path='/about' render={() => {
+          <Route exact path='portfolio/about' render={() => {
             return <Col md={6}>
             <About/>
             </Col>
           }}/>
-          <Route exact path='/projects' render={() => {
+          <Route exact path='portfolio/projects' render={() => {
             return <Col md={12}>
             <Projects/>
             </Col>
           }}/>
-          <Route exact path='/contact' render={() => {
+          <Route exact path='portfolio/contact' render={() => {
             return <Col md={4}>
             <Contact/>
             </Col>
