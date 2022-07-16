@@ -5,9 +5,22 @@
 	text-align: center;
 	font-size: large;
 	color: white;
+	padding: 0%;
+	
 }
 
 .social-media {
 	margin-left: 10px;
 	margin-right: 10px;
+	margin-top: 5px;
 }
+
+.Email {
+	font-size: 12px;
+	float: left;
+}
+
+.Phone {
+	font-size: 12px;
+}
+

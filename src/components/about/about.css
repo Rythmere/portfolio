@@ -1,9 +1,15 @@
 .about {
 	display: flex;
-	flex-direction: row;
     flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
+	padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+.Skills {
+	flex-direction: column;
+	flex-wrap: nowrap;
 }
 
 .profile_portrait {
@@ -12,3 +18,4 @@
 	margin: 0 10px;
 	border-radius: 50%;
 }
+

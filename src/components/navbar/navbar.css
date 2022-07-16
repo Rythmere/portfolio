@@ -3,3 +3,7 @@
     padding-bottom: 5px;
     margin-bottom: 5px;
 }
+
+.navbar-logo {
+    color: rgb(127, 0, 255) !important;
+}

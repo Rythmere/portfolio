@@ -10,6 +10,7 @@ import { Home } from './components/home/home';
 import { About } from './components/about/about';
 import { Projects } from './components/projects/projects';
 import { Contact } from './components/contact/contact';
+import { MyFlix } from './components/MyFlix/MyFlix';
 
 class App extends React.Component {
 
@@ -25,7 +26,7 @@ class App extends React.Component {
             </Col>
           }}/>
           <Route exact path='/portfolio/about' render={() => {
-            return <Col md={6}>
+            return <Col md={8}>
             <About/>
             </Col>
           }}/>
@@ -34,11 +35,17 @@ class App extends React.Component {
             <Projects/>
             </Col>
           }}/>
-          <Route exact path='/portfolio/contact' render={() => {
+         {/* <Route exact path='/portfolio/contact' render={() => {
             return <Col md={4}>
             <Contact/>
             </Col>
           }}/>
+        */}
+        <Route path='/portfolio/myflix' render={() => {
+          return <Col md={8}>
+            <MyFlix/>
+          </Col>
+        }}/>
         </Row>
         
       </Container>

@@ -10,7 +10,11 @@
 }
 
 .container-projects {
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
     
+}
+
+.card {
+    height: 100%;
 }

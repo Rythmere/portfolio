@@ -2,7 +2,6 @@ import React from "react";
 import  Navbar  from "react-bootstrap/Navbar";
 import Container  from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
-import { Link } from "react-router-dom";
 import './navbar.css'
 
 export function NavBar() {
@@ -15,8 +14,8 @@ export function NavBar() {
             <Nav className="ml-auto">
                 <Nav.Link href='/portfolio/'>Home</Nav.Link>
                 <Nav.Link href='/portfolio/about'>About</Nav.Link>
-                <Nav.Link href="/portfolio/projects">My Work</Nav.Link>
-                <Nav.Link href="/portfolio/contact">Contact</Nav.Link>
+                <Nav.Link href="/portfolio/projects">Projects</Nav.Link>
+              {/*  <Nav.Link href="/portfolio/contact">Contact</Nav.Link> */}
             </Nav>
             </Navbar.Collapse>
             </Container>

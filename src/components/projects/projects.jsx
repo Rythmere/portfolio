@@ -20,7 +20,7 @@ export class Projects extends React.Component {
         <Container className='container-projects'>
         <Row>
             <h2 className='title'>My work</h2>
-            <Col md={4} sm={2}>
+            <Col md={4} >
             <Card  bg='dark' text='light'>
                 <Card.Img variant='top' src={myFlixReact} />
                 <Card.Body>
@@ -36,10 +36,11 @@ export class Projects extends React.Component {
                     </Card.Text>
                     <Button href='https://github.com/Rythmere/movieApi-client' className='Btn-bg' variant='primary' >GitHub</Button>
                     <Button href='https://mymoviesbdg.netlify.app' className='Btn-bg' variant='primary' >Live Site</Button>
+                    <Button className="Btn-bg" href="/portfolio/myflix" variant='dark'>Case Study</Button>
                 </Card.Body>
         </Card>
             </Col>
-            <Col md={4} sm={2}>
+            <Col md={4}>
             <Card bg='dark' text='light'>
                 <Card.Img variant='top' src={myFlixApi} />
                 <Card.Body>
@@ -57,7 +58,7 @@ export class Projects extends React.Component {
                 </Card.Body>
         </Card>
             </Col>
-            <Col md={4} sm={2}>
+            <Col md={4} >
             <Card  bg='dark' text='light'>
                 <Card.Img variant='top' src={myFlixAngular} />
                 <Card.Body>
@@ -77,7 +78,7 @@ export class Projects extends React.Component {
                 </Card.Body>
         </Card>
             </Col>
-            <Col md={4} sm={2}>
+            <Col md={4} >
             <Card bg='dark' text='light'>
                 <Card.Img variant='top' src={meetApp} />
                 <Card.Body>
@@ -97,7 +98,7 @@ export class Projects extends React.Component {
                 </Card.Body>
         </Card>
             </Col>
-            <Col md={4} sm={2}>
+            <Col md={4} >
             <Card  bg='dark' text='light'>
                 <Card.Img  variant='top' src={ChatApp} />
                 <Card.Body>
@@ -116,7 +117,7 @@ export class Projects extends React.Component {
                 </Card.Body>
         </Card>
             </Col>
-            <Col md={4} sm={2}>
+            <Col md={4} >
             <Card  bg='dark' text='light'>
                 <Card.Img variant='top' src={pokedex} />
                 <Card.Body>

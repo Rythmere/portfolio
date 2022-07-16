@@ -1,0 +1,32 @@
+.Myflix {
+        padding-top: 16vh;
+        padding-bottom: 16vh;
+}
+
+.myflixReact {
+    float: right;
+    width: 500px;
+    padding-left: 110px;
+    padding-top: 10px;
+}
+
+.myflixApi {
+    float: left;
+    width: 500px;
+    padding-right: 110px;
+    padding-top: 10px;
+}
+
+.MyFlixH1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(102, 0, 204);
+}
+
+.Duration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(102, 0, 204);
+}
