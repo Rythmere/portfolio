@@ -20,17 +20,17 @@ class App extends React.Component {
       <Container>
         <NavBar/>
         <Row className='home-card'>
-          <Route exact path='/portfolio/' render={() => {
+          <Route exact path='/' render={() => {
            return <Col md={6}>
             <Home/>
             </Col>
           }}/>
-          <Route exact path='/portfolio/about' render={() => {
+          <Route exact path='/about' render={() => {
             return <Col md={8}>
             <About/>
             </Col>
           }}/>
-          <Route path='/portfolio/projects' render={() => {
+          <Route path='/projects' render={() => {
             return <Col md={12}>
             <Projects/>
             </Col>
@@ -41,7 +41,7 @@ class App extends React.Component {
             </Col>
           }}/>
         */}
-        <Route path='/portfolio/myflix' render={() => {
+        <Route path='/myflix' render={() => {
           return <Col md={8}>
             <MyFlix/>
           </Col>

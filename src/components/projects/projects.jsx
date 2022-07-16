@@ -36,7 +36,7 @@ export class Projects extends React.Component {
                     </Card.Text>
                     <Button href='https://github.com/Rythmere/movieApi-client' className='Btn-bg' variant='primary' >GitHub</Button>
                     <Button href='https://mymoviesbdg.netlify.app' className='Btn-bg' variant='primary' >Live Site</Button>
-                    <Button className="Btn-bg" href="/portfolio/myflix" variant='dark'>Case Study</Button>
+                    <Button className="Btn-bg" href="/myflix" variant='dark'>Case Study</Button>
                 </Card.Body>
         </Card>
             </Col>
