@@ -8,7 +8,7 @@ export function NavBar() {
     return (
         <Navbar className="main-nav" fixed="top" bg='dark' expand='lg' variant='dark'>
             <Container className="container-nav">
-            <Navbar.Brand className='navbar-logo' href='/portfolio/'>Brice Douvier-Gore</Navbar.Brand>
+            <Navbar.Brand className='navbar-logo' href='/'>Brice Douvier-Gore</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
             <Navbar.Collapse id="responsive-navbar-nav" >
             <Nav className="ml-auto">
