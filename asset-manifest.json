@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f2a54050.css",
-    "main.js": "/portfolio/static/js/main.4c28549e.js",
+    "main.css": "/portfolio/static/css/main.8fb5efc6.css",
+    "main.js": "/portfolio/static/js/main.71288c05.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/myFlix-React.jpg": "/portfolio/static/media/myFlix-React.7a679b1f94081d1c0df2.jpg",
     "static/media/myFlix-Angular.jpg": "/portfolio/static/media/myFlix-Angular.a51a08808c60b9d619ac.jpg",
@@ -10,17 +10,20 @@
     "static/media/myFlix-Api.jpg": "/portfolio/static/media/myFlix-Api.773552ea08c7841f6623.jpg",
     "static/media/meet-app.jpg": "/portfolio/static/media/meet-app.883aaeed0916b000f58b.jpg",
     "static/media/Profile-Portrait.jpg": "/portfolio/static/media/Profile-Portrait.8e674bd6e784729cb913.jpg",
+    "static/media/Brice-Douvier-Gore-Resume.pdf": "/portfolio/static/media/Brice-Douvier-Gore-Resume.36d1e1133825b123e504.pdf",
     "static/media/about-picture.jpg": "/portfolio/static/media/about-picture.4fb450c91cb5236229dc.jpg",
-    "static/media/twitter.svg": "/portfolio/static/media/twitter.e91d00779caeacc1f8585d962ca5a846.svg",
+    "static/media/myFlix-login.jpg": "/portfolio/static/media/myFlix-login.4b21943787b9e0722f46.jpg",
+    "static/media/mail-142.svg": "/portfolio/static/media/mail-142.91214fbb7c00aa34f7b180faf831b159.svg",
+    "static/media/phone.svg": "/portfolio/static/media/phone.358c4ac41aed968526b95140497b696c.svg",
     "static/media/github.svg": "/portfolio/static/media/github.cc195ced88bd87fc6189af95ab7c11e6.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.57095f15fcd371d9eac072b1dfa69643.svg",
     "index.html": "/portfolio/index.html",
-    "main.f2a54050.css.map": "/portfolio/static/css/main.f2a54050.css.map",
-    "main.4c28549e.js.map": "/portfolio/static/js/main.4c28549e.js.map",
+    "main.8fb5efc6.css.map": "/portfolio/static/css/main.8fb5efc6.css.map",
+    "main.71288c05.js.map": "/portfolio/static/js/main.71288c05.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2a54050.css",
-    "static/js/main.4c28549e.js"
+    "static/css/main.8fb5efc6.css",
+    "static/js/main.71288c05.js"
   ]
 }
