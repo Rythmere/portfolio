@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8fb5efc6.css",
-    "main.js": "/portfolio/static/js/main.71288c05.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/myFlix-React.jpg": "/portfolio/static/media/myFlix-React.7a679b1f94081d1c0df2.jpg",
-    "static/media/myFlix-Angular.jpg": "/portfolio/static/media/myFlix-Angular.a51a08808c60b9d619ac.jpg",
-    "static/media/ChatApp.jpg": "/portfolio/static/media/ChatApp.48549cdaf01e0ed86461.jpg",
-    "static/media/pokedex.jpg": "/portfolio/static/media/pokedex.174e0a95574151605db9.jpg",
-    "static/media/myFlix-Api.jpg": "/portfolio/static/media/myFlix-Api.773552ea08c7841f6623.jpg",
-    "static/media/meet-app.jpg": "/portfolio/static/media/meet-app.883aaeed0916b000f58b.jpg",
-    "static/media/Profile-Portrait.jpg": "/portfolio/static/media/Profile-Portrait.8e674bd6e784729cb913.jpg",
-    "static/media/Brice-Douvier-Gore-Resume.pdf": "/portfolio/static/media/Brice-Douvier-Gore-Resume.36d1e1133825b123e504.pdf",
-    "static/media/about-picture.jpg": "/portfolio/static/media/about-picture.4fb450c91cb5236229dc.jpg",
-    "static/media/myFlix-login.jpg": "/portfolio/static/media/myFlix-login.4b21943787b9e0722f46.jpg",
-    "static/media/mail-142.svg": "/portfolio/static/media/mail-142.91214fbb7c00aa34f7b180faf831b159.svg",
-    "static/media/phone.svg": "/portfolio/static/media/phone.358c4ac41aed968526b95140497b696c.svg",
-    "static/media/github.svg": "/portfolio/static/media/github.cc195ced88bd87fc6189af95ab7c11e6.svg",
-    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.57095f15fcd371d9eac072b1dfa69643.svg",
-    "index.html": "/portfolio/index.html",
-    "main.8fb5efc6.css.map": "/portfolio/static/css/main.8fb5efc6.css.map",
-    "main.71288c05.js.map": "/portfolio/static/js/main.71288c05.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.8fb5efc6.css",
+    "main.js": "/static/js/main.c6983f4f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/myFlix-React.jpg": "/static/media/myFlix-React.7a679b1f94081d1c0df2.jpg",
+    "static/media/myFlix-Angular.jpg": "/static/media/myFlix-Angular.a51a08808c60b9d619ac.jpg",
+    "static/media/ChatApp.jpg": "/static/media/ChatApp.48549cdaf01e0ed86461.jpg",
+    "static/media/pokedex.jpg": "/static/media/pokedex.174e0a95574151605db9.jpg",
+    "static/media/myFlix-Api.jpg": "/static/media/myFlix-Api.773552ea08c7841f6623.jpg",
+    "static/media/meet-app.jpg": "/static/media/meet-app.883aaeed0916b000f58b.jpg",
+    "static/media/Profile-Portrait.jpg": "/static/media/Profile-Portrait.8e674bd6e784729cb913.jpg",
+    "static/media/Brice-Douvier-Gore-Resume.pdf": "/static/media/Brice-Douvier-Gore-Resume.36d1e1133825b123e504.pdf",
+    "static/media/about-picture.jpg": "/static/media/about-picture.4fb450c91cb5236229dc.jpg",
+    "static/media/myFlix-login.jpg": "/static/media/myFlix-login.4b21943787b9e0722f46.jpg",
+    "static/media/mail-142.svg": "/static/media/mail-142.91214fbb7c00aa34f7b180faf831b159.svg",
+    "static/media/phone.svg": "/static/media/phone.358c4ac41aed968526b95140497b696c.svg",
+    "static/media/github.svg": "/static/media/github.cc195ced88bd87fc6189af95ab7c11e6.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.57095f15fcd371d9eac072b1dfa69643.svg",
+    "index.html": "/index.html",
+    "main.8fb5efc6.css.map": "/static/css/main.8fb5efc6.css.map",
+    "main.c6983f4f.js.map": "/static/js/main.c6983f4f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fb5efc6.css",
-    "static/js/main.71288c05.js"
+    "static/js/main.c6983f4f.js"
   ]
 }
