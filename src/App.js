@@ -35,12 +35,12 @@ class App extends React.Component {
             <Projects/>
             </Col>
           }}/>
-         {/* <Route exact path='/portfolio/contact' render={() => {
+         { <Route exact path='/contact' render={() => {
             return <Col md={4}>
             <Contact/>
             </Col>
           }}/>
-        */}
+        }
         <Route path='/myflix' render={() => {
           return <Col md={8}>
             <MyFlix/>

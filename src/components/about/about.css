@@ -1,4 +1,4 @@
-.about {
+.about-container {
 	display: flex;
     flex-wrap: wrap;
 	justify-content: center;
@@ -7,13 +7,14 @@
     padding-bottom: 15vh;
 }
 
-.Skills {
-	flex-direction: column;
-	flex-wrap: nowrap;
+.about {
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
 }
 
 .profile_portrait {
-	float: left;
 	width: 250px;
 	margin: 0 10px;
 	border-radius: 50%;

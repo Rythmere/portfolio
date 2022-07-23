@@ -1,6 +1,5 @@
 import './projects.css';
 import React from 'react';
-import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom';
 import  Container  from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
@@ -19,7 +18,7 @@ export class Projects extends React.Component {
     return (
         <Container className='container-projects'>
         <Row>
-            <h2 className='title'>My work</h2>
+            <h1 className='title'>My Work</h1>
             <Col md={4} >
             <Card  bg='dark' text='light'>
                 <Card.Img variant='top' src={myFlixReact} />

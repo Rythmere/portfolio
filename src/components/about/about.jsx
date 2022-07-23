@@ -1,17 +1,19 @@
 import React from "react";
 import about from '../footer/img/about-picture.jpg';
+import Button from "react-bootstrap/Button";
 import  Container  from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Resume from '../footer/img/Brice-Douvier-Gore-Resume.pdf';
 import './about.css';
 
 export class About extends React.Component {
     render() {
         return (
             <div >
-                <div className="about">
+                <div className="about-container">
                 <img src={about} className="profile_portrait" alt=""/>
-                <div>
+                <div className="about">
                 <h1>About me</h1><br></br>
                 <p>
                 Hello, I’m Brice Douvier-Gore. I have a  background in automotive maintenance and warehouse order selection. 
@@ -19,7 +21,7 @@ export class About extends React.Component {
                 I’m switching to web development out of a passion for technology and a desire to learn more about how technology used everyday works. 
                 I want to build things that are useful to people’s everyday lives and that challenge me to learn and develop new skills
                 </p>
-                <br></br>
+                <Button className="Btn-bg" href={Resume} variant='dark' download='Brice-Douvier-Gore-Resume.pdf'>Download My Resume</Button>
                 <Container>
                 <Row>
                 <Col>

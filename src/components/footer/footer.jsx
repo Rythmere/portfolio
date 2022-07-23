@@ -14,13 +14,13 @@ export function Footer() {
         <div className="Phone">
         <a href="tel:+3204922052">
                 <img className="social-media" src={phone} alt='Email'/>
-                <span>1-(320)-492-2052</span>
+                <span>(320)-492-2052</span>
             </a>
         </div>
         <div className="Email">
-            <a href="mailto:Rythmere@gmail.com">
+            <a href="mailto:Bricedouviergore@gmail.com">
                 <img className="social-media" src={email} alt='Email'/>
-                <span>Rythmere@gmail.com</span>
+                <span>Bricedouviergore@gmail.com</span>
             </a>
         </div>
 		<div>
